@@ -1,0 +1,15 @@
+[33m6213881[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: pull: Fast-forward
+[33mdd65716[m HEAD@{1}: checkout: moving from MyBranch to main
+[33m314f98b[m[33m ([m[1;32mMyBranch[m[33m)[m HEAD@{2}: checkout: moving from MyBranch to MyBranch
+[33m314f98b[m[33m ([m[1;32mMyBranch[m[33m)[m HEAD@{3}: checkout: moving from main to MyBranch
+[33mdd65716[m HEAD@{4}: checkout: moving from main to main
+[33mdd65716[m HEAD@{5}: checkout: moving from main to main
+[33mdd65716[m HEAD@{6}: checkout: moving from MyBranch to main
+[33m314f98b[m[33m ([m[1;32mMyBranch[m[33m)[m HEAD@{7}: commit: setup completed
+[33mdd65716[m HEAD@{8}: checkout: moving from main to MyBranch
+[33mdd65716[m HEAD@{9}: pull --rebase origin main (finish): returning to refs/heads/main
+[33mdd65716[m HEAD@{10}: pull --rebase origin main (pick): First commit - Java project created
+[33mdaca096[m HEAD@{11}: pull --rebase origin main (start): checkout daca09613f44666dc240ceb93c03f189fb9d6f4c
+[33m812c1de[m HEAD@{12}: checkout: moving from main to main
+[33m812c1de[m HEAD@{13}: Branch: renamed refs/heads/master to refs/heads/main
+[33m812c1de[m HEAD@{15}: commit (initial): First commit - Java project created
